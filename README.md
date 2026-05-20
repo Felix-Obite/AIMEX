@@ -1,7 +1,7 @@
 
 # AIMEX
 
-**A Multimodal Active Inference Framework on Knowledge Graphs for Explainable Rare Disease Discovery**
+**Active Inference on Multimodal Explainable Knowledge Graphs for Rare Disease Discovery**
 
 
 
