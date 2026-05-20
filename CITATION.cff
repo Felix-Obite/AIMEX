@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Obite
+    given-names: Felix
+title: "AIMEX: Active Inference on Multimodal Explainable Knowledge Graphs for Rare Disease Discovery"
+version: 1.0.0
+date-released: 2025
+url: "https://github.com/Felix-Obite/AIMEX"
+abstract: >
+  Curiosity-driven Active Inference on Biomedical Knowledge Graphs
+  enables rare disease discovery from sparse data.
+license: MIT
+note: "Manuscript under review"
