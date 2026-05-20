@@ -36,7 +36,7 @@ If you use AIMEX in your research, please cite:
   author    = {Obite, Felix},
   title     = {AIMEX: Active Inference on Multimodal Explainable
                Knowledge Graphs for Rare Disease Discovery},
-  year      = {2025},
+  year      = {2026},
   url       = {https://github.com/Felix-Obite/AIMEX},
   note      = {Manuscript under review}
 }
