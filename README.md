@@ -28,5 +28,19 @@ Monarch Initiative KG v2024-07-12:
 https://monarch-initiative.org (downloaded automatically on first run)
 
 ## Citation
-Obite F. AIMEX: A Multimodal Active Inference Framework on Knowledge
-Graphs for Explainable Rare Disease Discovery. Nature Communications, 2025.
+
+If you use AIMEX in your research, please cite:
+
+```bibtex
+@software{obite2025aimex,
+  author    = {Obite, Felix},
+  title     = {AIMEX: Active Inference on Multimodal Explainable
+               Knowledge Graphs for Rare Disease Discovery},
+  year      = {2025},
+  url       = {https://github.com/Felix-Obite/AIMEX},
+  note      = {Manuscript under review}
+}
+```
+
+> **Note:** A journal publication is forthcoming. This page will be
+> updated with the full citation upon acceptance.
