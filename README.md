@@ -32,7 +32,7 @@ https://monarch-initiative.org (downloaded automatically on first run)
 If you use AIMEX in your research, please cite:
 
 ```bibtex
-@software{obite2025aimex,
+@software{obite2026aimex,
   author    = {Obite, Felix},
   title     = {AIMEX: Active Inference on Multimodal Explainable
                Knowledge Graphs for Rare Disease Discovery},
