@@ -1,5 +1,6 @@
 
 # AIMEX
+https://zenodo.org/records/20314479
 
 **Active Inference on Multimodal Explainable Knowledge Graphs for Rare Disease Discovery**
 
